@@ -1,0 +1,8 @@
+# DATABASE = mongodb+srv://mjasirpp:mern@cluster0.teh5lmx.mongodb.net/projectFair?retryWrites=true&w=majority&appName=Cluster0
+
+DATABASE = mongodb+srv://mj:mj123@cluster0.9jhmdlx.mongodb.net/
+
+N7TZ1WNu0cBCnM4V
+jasiranu334
+
+mongodb+srv://jasiranu334:N7TZ1WNu0cBCnM4V@mernpf.wweinjo.mongodb.net/?retryWrites=true&w=majority&appName=mernPF
